@@ -40,43 +40,43 @@
 		<meta property="term" refines="#subject-3">sh2009121991</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008109487</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Harry Labar is lazy, he thinks so and so do his peers in the Grape Street division. His boss has alluded to early retirement for Harry unless he can improve the clear-up rate. However, he is impeded by Larry Hughes, an untouchable criminal kingpin, who he attributes with being behind most of the crime in the area.&lt;/p&gt;
+			&lt;p&gt;When a local millionaire, Solly Gertstein, is robbed of precious jewels and objets d'art, it has all the hallmarks of Larry Hughes behind it. Hughes is not one to get his hands dirty, consequently Harry needs to be industrious to gather enough evidence to link it to Hughes, all the while trying to avoid his feelings for one of the witnesses, Miss Penelope Noelson...&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-dilnot"&gt;George Dilnot&lt;/a&gt; wrote this novel in 1926, with this edition being published in 1927. Dilnot was a police officer then a journalist before he became a writer and novelist specialising in crime novels and non-fiction works on criminology, the history of the Metropolitan Police and police investigative methods.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75493</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-dilnot_the-lazy-detective</meta>
 		<dc:creator id="author">George Dilnot</dc:creator>
 		<meta property="file-as" refines="#author">Dilnot, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">George Dilnot</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Dilnot</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/no94044315.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Salomon van Abbé</dc:contributor>
+		<meta property="file-as" refines="#artist">Van Abbé, Salomon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Salomon_van_Abbé</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85062516.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Miller</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Miller, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jim Turnbull</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Turnbull, Jim</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/misterjaytee</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
