@@ -49,20 +49,19 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75493</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/lazydetective00diln</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-dilnot_the-lazy-detective</meta>
 		<dc:creator id="author">George Dilnot</dc:creator>
 		<meta property="file-as" refines="#author">Dilnot, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">George Dilnot</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Dilnot</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/no94044315.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no94044315</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Salomon van Abbé</dc:contributor>
 		<meta property="file-as" refines="#artist">Van Abbé, Salomon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Salomon_van_Abbé</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85062516.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85062516</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Miller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Miller, Tim</meta>
