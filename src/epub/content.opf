@@ -41,6 +41,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008109487</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Harry Labar is lazy, he thinks so and so do his peers in the Grape Street division. His boss has alluded to early retirement for Harry unless he can improve the clear-up rate. However, he is impeded by Larry Hughes, an untouchable criminal kingpin, who he attributes with being behind most of the crime in the area.&lt;/p&gt;
