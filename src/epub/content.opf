@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-13T20:41:46Z</dc:date>
+		<meta property="dcterms:modified">2025-10-13T20:41:46Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,14 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Harry Labar is lazy, he thinks so and so do his peers in the Grape Street division. His boss has alluded to early retirement for Harry unless he can improve the clear-up rate. However, he is impeded by Larry Hughes, an untouchable criminal kingpin, who he attributes with being behind most of the crime in the area.&lt;/p&gt;
-			&lt;p&gt;When a local millionaire, Solly Gertstein, is robbed of precious jewels and objets d’art, it has all the hallmarks of Larry Hughes behind it. Hughes is not one to get his hands dirty, consequently Harry needs to be industrious to gather enough evidence to link it to Hughes, all the while trying to avoid his feelings for one of the witnesses, Miss Penelope Noelson …&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-dilnot"&gt;George Dilnot&lt;/a&gt; wrote this novel in 1926, with this edition being published in 1927. Dilnot was a police officer then a journalist before he became a writer and novelist specialising in crime novels and non-fiction works on criminology, the history of the Metropolitan Police and police investigative methods.&lt;/p&gt;
+			&lt;p&gt;Harry Labar is lazy—at least he thinks so, and so do his peers in the Grape Street division. His boss has alluded to early retirement for Harry unless he can improve his clear-up rate. But Harry’s rate is impeded by Larry Hughes, an untouchable criminal kingpin suspected of being behind most of the local crime.&lt;/p&gt;
+			&lt;p&gt;When a millionaire, Solly Gertstein, is robbed of precious jewels and objets d’art, the crime carries all the hallmarks of Larry Hughes. Hughes isn’t one to get his hands dirty; consequently Harry needs to be industrious to gather enough evidence to link the crime to Hughes, all the while trying to control his romantic feelings for one of the witnesses, Miss Penelope Noelson …&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75493</dc:source>
 		<dc:source>https://archive.org/details/lazydetective00diln</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72028</meta>
+		<meta property="se:reading-ease.flesch">75.3</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-dilnot_the-lazy-detective</meta>
 		<dc:creator id="author">George Dilnot</dc:creator>
 		<meta property="file-as" refines="#author">Dilnot, George</meta>
@@ -84,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
