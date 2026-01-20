@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75493</dc:source>
 		<dc:source>https://archive.org/details/lazydetective00diln</dc:source>
-		<meta property="se:word-count">72028</meta>
+		<meta property="se:word-count">70609</meta>
 		<meta property="se:reading-ease.flesch">75.3</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-dilnot_the-lazy-detective</meta>
 		<dc:creator id="author">George Dilnot</dc:creator>
