@@ -63,8 +63,8 @@
 		<link href="https://id.loc.gov/authorities/names/no94044315.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Salomon van Abbé</dc:contributor>
-		<meta property="file-as" refines="#artist">Van Abbé, Salomon</meta>
-		<link href="https://en.wikipedia.org/wiki/Salomon_van_Abbé" refines="#artist" rel="schema:sameAs"/>
+		<meta property="file-as" refines="#artist">van Abbé, Salomon</meta>
+		<link href="https://en.wikipedia.org/wiki/Salomon_van_Abb%C3%A9" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85062516.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Miller</dc:contributor>
